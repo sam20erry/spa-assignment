@@ -1,0 +1,134 @@
+section li{
+    display: inline;
+margin: 0px 50px;
+color: white;
+
+}
+.one{
+    background-color: black;
+}
+.bbb{
+    font-size: 30px;
+    margin-right: 150px
+}
+.per{
+    background-color: black;
+    padding: 20px;
+    border: 1px solid black
+}
+.win{
+    float: right;
+}
+nav i{
+    color: white;
+    margin: 0px 20px
+}
+.azs{
+    border: 1px solid chocolate;
+border-radius: 25px;
+width: fit-content;
+padding: 10px 30px;
+background-color: chocolate;
+margin-left: 40px
+
+}
+.qq{ padding: 60px;
+    margin: 10px
+}
+.qa{
+    margin: 20px;
+    padding: 20px;
+    font-size: 60px
+}
+.qe{
+  margin: 20px;
+  padding: 20px  ;
+  padding-bottom: 50px
+}
+.qr{
+    margin: 35px;
+    padding: 30px
+}
+#voo{
+    height: 600px
+}
+.pi{
+    border: 1px solid chocolate;
+border-radius: 25px;
+width: fit-content;
+padding: 10px 30px;
+background-color: chocolate;
+margin-left: 40px;
+}
+.maze{
+    /* float: right; */
+    /* padding: 50px; */
+    /* margin-left: 100%; */
+    /* text-align: right; */
+    /* max-width:left ; */
+    /* background-color: black */
+}
+.cat{
+    padding: 50px;
+    text-align: justify
+    /* margin-top: 100px */
+}
+#mer{
+    /* padding: 30px; */
+    /* margin: 35px; */
+    float: right
+}
+.nin{ 
+    border: 1px solid white;
+    border-radius: 25px;
+    width: fit-content;
+    padding: 10px 30px;
+}
+.nnn{
+    border: 1px solid none;background-color: brown;padding: 500px;
+}
+.sam{
+    border: 1px solid black;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color: black;
+    position: relative;
+    top: 75px;
+    left: 890px;
+}
+.bro{
+    margin: 100px;
+    border: 1px solid black;
+    color: white;
+    padding-left: 50px;
+    background-color: grey;
+}
+form{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    width: fit-content;
+    margin-bottom: 50px;
+}
+input{
+    border: none;
+}
+button{
+    background-color: orangered;
+    padding: 20px; 
+}
+.hess{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.tert{
+    text-align: center;
+    margin-top: 20px
+}
+.bin{
+    display: flex;
+    justify-content: space-around;
+}
